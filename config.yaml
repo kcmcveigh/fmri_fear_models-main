@@ -1,0 +1,10 @@
+input_dim: 100
+hidden_dim: 150
+n_hidden: 2
+out_dim: 1
+dropout: 0.1
+data_path: "/work/abslab/Kieran/notebooks/DNN/Affective_Dynamics/avfp_parecellation/schaefer_{input_dim}/*.csv"
+epochs: 10
+learning_rate: .00005
+batch_size: 16
+random_state: 42
