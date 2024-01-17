@@ -37,4 +37,4 @@ Please note that the data used in this analysis is not yet publicly available. I
 
 ## Contact
 
-For any questions or inquiries, please contact [Yiyu Wang](mailto:yiyu.wang6@gmail.com) or [Your Name](kieran.mcveighc@gmail.com).
+For any questions or inquiries, please contact [Yiyu Wang](mailto:yiyu.wang6@gmail.com) or [Kieran McVeigh](kieran.mcveighc@gmail.com).
